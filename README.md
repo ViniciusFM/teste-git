@@ -2,10 +2,6 @@
 
 O objetivo deste repositório é mostrar duas diferentes versões de algoritmos para resolução de fatorial.
 
-## Authors
-
-* Vinícius F. Maciel
-
 ## Fatorial Iterativo
 
 Fatorial Iterativo consiste na implementação da versão iterativa do algoritmo fatorial.
