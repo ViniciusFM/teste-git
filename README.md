@@ -32,3 +32,7 @@ def fatorial_rec(n: int) -> int:
     else:
         return n * fatorial_rec(n-1)
 ```
+
+## Authors
+
+* Vinícius F. Maciel
